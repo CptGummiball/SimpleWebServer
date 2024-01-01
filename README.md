@@ -33,6 +33,9 @@ web-server-port: 8080
 - Ensure that the specified web server port is open and not conflicting with other services.
 - Access the web server link using the /sws link command in-game.
 
+## Issues
+If you encounter any issues or have suggestions, please [create a new issue](https://github.com/CptGummiball/SimpleWebServer/issues).
+
 ## Credits
 Author: CptGummiball
 
