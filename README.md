@@ -1,5 +1,5 @@
 # SimpleWebServer
-A simple internal web server for Spigot servers
+A simple internal web server for Spigot
 
 ## Description
 SimpleWebServer is a Spigot plugin that provides a basic web server functionality for Minecraft servers. It allows server administrators to start, stop, restart the embedded Jetty web server and provides a command to display the link to the web server.
